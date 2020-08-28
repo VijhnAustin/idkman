@@ -1,0 +1,128 @@
+{
+   "main":{
+      "name":"Vijhn K. Austin",
+      "occupation":"Aspiring Pro Web Dev",
+      "description":"I spend my time designing websites, reading, and playing video games",
+      "image":"profilepic.jpg",
+      "bio":"Texas A&M Alumni, Class of 2017, BS Geophysics",
+      "contactmessage":"Provided below is an email form if you wish to contact me.",
+      "email":"vijhn.austin@gmail.com",
+      "phone":"281-631-3157",
+      "address":{
+         "street":"",
+         "city":"",
+         "state":"",
+         "zip":""
+      },
+      "website":"http://google.com",
+      "resumedownload":"http://google.com",
+      "social":[
+         {
+            "name":"facebook",
+            "url":"https://www.facebook.com/vijhn.austin",
+            "className":"fa fa-facebook"
+         },
+         {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+         },
+         {
+            "name":"google-plus",
+            "url":"http://googleplus.com",
+            "className":"fa fa-google-plus"
+         },
+         {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/vijhn-austin-662224b4/",
+            "className":"fa fa-linkedin"
+         },
+         {
+            "name":"instagram",
+            "url":"http://instagram.com",
+            "className":"fa fa-instagram"
+         },
+         {
+            "name":"github",
+            "url":"https://github.com/VijhnAustin",
+            "className":"fa fa-github"
+         },
+         {
+            "name":"skype",
+            "url":"http://skype.com",
+            "className":"fa fa-skype"
+         }
+      ]
+   },
+   "resume":{
+      "skillmessage":"Relative strength in programming tools",
+      "education":[
+         {
+            "school":"Texas A&M University",
+            "degree":"Bachelor's of Science in Geophysics",
+            "graduated":"Dec 2017",
+            "description":"Used python and matlab to generate earth science models. Finite difference methods used include the Crank Nicolson scheme for the heat equation and fluid mechanics, and MacCormack for the wave equation. "
+         }
+      ],
+      "work":[
+         {
+            "company":"UNLMT Austin Web Works",
+            "title":"Full Stack Web Designer",
+            "years":"Feb 2018 - Present",
+            "description":"In charge of the entire website deployment process, including design, hosting, security, and maintenence"
+         }
+      ],
+      "skills":[
+         {
+            "name":"Git",
+            "level":"75%"
+         },
+         {
+            "name":"Illustrator",
+            "level":"40%"
+         },
+         {
+            "name":"ReactJs",
+            "level":"100%"
+         },
+         {
+            "name":"CSS",
+            "level":"90%"
+         },
+         {
+            "name":"HTML5",
+            "level":"80%"
+         },
+         {
+            "name":"VueJs",
+            "level":"40%"
+         },
+         {
+            "name":"MongoDB",
+            "level":"60%"
+         }
+      ]
+   },
+   "portfolio":{
+      "projects":[
+         {
+            "title":"This website",
+            "category":"My online portfolio",
+            "image":"websitepic.jpg",
+            "url":"https://google.com"
+         }
+      ]
+   },
+   "testimonials":{
+      "testimonials":[
+         {
+            "text":"He's playing a different game than us.",
+            "user":"Grapecola"
+         },
+         {
+            "text":"Easy game, easy life",
+            "user":"Vollke"
+         }
+      ]
+   }
+}
